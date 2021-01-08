@@ -93,7 +93,7 @@ typedef enum FX3BoardType
 }FX3BoardType;
 
 /** Enum for the available part (DUT) types */
-typedef enum PartTye
+typedef enum PartType
 {
 	/** 0 for ADcmXL1021 (single axis) */
 	ADcmXL1021 = 0,
